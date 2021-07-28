@@ -1,0 +1,15 @@
+{
+	"proj":{
+		"name":"[app name]",
+		"addons":[
+			{
+				"name":"addon_sample",
+				"class":"Addon_Sample",
+				"file":"js/apps/addon_sample.js",
+				"config":{
+					"bbox":"main"
+				}
+			}
+		]
+	}
+}
